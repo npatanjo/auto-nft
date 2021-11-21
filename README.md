@@ -38,5 +38,10 @@ PRIVATE_KEY="<PRIVATE WALLET KEY>"
 - Next we want to make sure you can run the script. Type `chmod a+x make_contract.py`
 - Finally we run the script and let the magic happen. type `./make_contract.py`
 
+# Post-Installation
+- After the script is finished your contract address will be brinted to the terminal
+- You shoud keep this address for your records
+- To check to make sure your contract deployed, visit https://ropsten.etherscan.io/ and cp your address.
+
 
 
