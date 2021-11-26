@@ -6,7 +6,7 @@ This repository contains a script that will automatically deploy a smart contrac
 - Homebrew - 
   If Homebrew is not installed visit this website: https://brew.sh/ <br />
 - nodejs (requires Homebrew) - 
-  'brew install nodejs` <br />
+  `brew install nodejs` <br />
 - python3 - 
   Your machine most likeley has python3 installed. You can check by typing `python3 --version` into your terminal. If the output is not a version, python is not installed. You can install python3 with `brew install python3` <br />
 - git - To install git: `brew install git`
