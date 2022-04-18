@@ -22,7 +22,7 @@ This repository contains a script that will automatically deploy a smart contrac
 # Installation
 - Open up a new terminal shell.
 - Make sure you are in your home directory, type `cd` and press enter. This will automatically place you in your home directory.
-- From your home directory clone this repo with `git clone https://github.com/npatanjo-student/auto-nft.git`
+- From your home directory clone this repo with `git clone https://github.com/npatanjo/auto-nft.git`
 - You will then want to cd into the directory you cloned: `cd auto-nft`
 - Next you will want to manualy enter information into the .env file. (We will be entering this information manually for security purposes. You do not want this information to show up on your command line history) 
 - First type `cd -al` to confirm the .env file exists.
